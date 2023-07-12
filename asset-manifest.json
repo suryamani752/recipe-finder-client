@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/recipe-finder-client/static/css/main.e4ee6a4d.css",
+    "main.js": "/recipe-finder-client/static/js/main.0f46ca56.js",
+    "static/js/787.bb84ef91.chunk.js": "/recipe-finder-client/static/js/787.bb84ef91.chunk.js",
+    "static/media/jumbotron.jpg": "/recipe-finder-client/static/media/jumbotron.733fb395e471c892d71b.jpg",
+    "static/media/bg.jpg": "/recipe-finder-client/static/media/bg.1b7b2c6d72de390f41f0.jpg",
+    "index.html": "/recipe-finder-client/index.html",
+    "main.e4ee6a4d.css.map": "/recipe-finder-client/static/css/main.e4ee6a4d.css.map",
+    "main.0f46ca56.js.map": "/recipe-finder-client/static/js/main.0f46ca56.js.map",
+    "787.bb84ef91.chunk.js.map": "/recipe-finder-client/static/js/787.bb84ef91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4ee6a4d.css",
+    "static/js/main.0f46ca56.js"
+  ]
+}
