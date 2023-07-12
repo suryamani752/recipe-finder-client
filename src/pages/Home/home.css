@@ -1,0 +1,11 @@
+.trivia-card {
+    width: 50%;
+    margin: auto;
+}
+
+.card {
+  align-items:center;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+}
