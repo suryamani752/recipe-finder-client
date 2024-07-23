@@ -45,10 +45,6 @@ function SignUpPage() {
         <div className="form-container">
           <h1>Sign Up</h1>
           <Form onSubmit={handleSignUp}>
-            // <Form.Group className="mb-4" controlId="formBasicName">
-            //   <Form.Label>Name</Form.Label>
-            //   <Form.Control type="text" placeholder="Enter name" required />
-            // </Form.Group>
 
             <Form.Group className="mb-4" controlId="formBasicEmail">
               <Form.Label>Email address</Form.Label>
