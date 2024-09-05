@@ -35,13 +35,13 @@ function App() {
         <AppNavbar/>
           <Routes>
             <Route path="/" element={<HomePage/>} />
-            {!user && (
-              <>
-                <Route path="/login" element={<LoginPage/>} />
-                <Route path="/signup" element={<SignUpPage/>} />
-              </>
-            )}
-            {user && <Route path="/favorites" element={<FavoritesPage/>} />}
+            // {!user && (
+            //   <>
+            //     <Route path="/login" element={<LoginPage/>} />
+            //     <Route path="/signup" element={<SignUpPage/>} />
+            //   </>
+            // )}
+            // {user && <Route path="/favorites" element={<FavoritesPage/>} />}
             <Route path="*" element={<NotFoundPage/>} />
           </Routes>
       </Router>
